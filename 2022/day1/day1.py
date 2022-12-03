@@ -1,5 +1,7 @@
+import os
+
 def task1():
-    inputFile = open("D:/DIS/AOC/AOC/2022/day1/day1input.txt")
+    inputFile = open(os.getcwd() + "\\AOC\\2022\\day1\\day1input.txt")
     answer = [ 0 ]
     biggestAnswer = 0
     index = 0
@@ -16,7 +18,7 @@ def task1():
     return biggestAnswer
 
 def task2():
-    inputFile = open("D:/DIS/AOC/AOC/2022/day1/day1input.txt")
+    inputFile = open(os.getcwd() + "\\AOC\\2022\\day1\\day1input.txt")
     answer = [ 0 ]
     biggestAnswers = [ 0, 0, 0 ]
     index = 0
