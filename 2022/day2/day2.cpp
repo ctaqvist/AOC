@@ -8,7 +8,6 @@ void task1()
 
 void task2()
 {
-
     std::cout << "Task 2!\n";
 }
 
