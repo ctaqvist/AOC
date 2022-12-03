@@ -1,2 +1,2 @@
 # AOC
- My badly written AOC answers
+Ignore my badly written AOC solutions!
